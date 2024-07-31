@@ -1,12 +1,12 @@
 {
-	"name": "Eric Mesquita PWA",
-	"short_name": "EMC PWA",
+	"name": "Eric Mesquita",
+	"short_name": "EMC",
 	"start_url": "index.html",
 	"display": "standalone",
 	"background_color": "#205bfc",
 	"theme_color": "black",
 	"scope": ".",
-	"description": "This is a PWA",
+	"description": "This is a PWA of Eric Mesquita that has a short curriculum",
 	"icons": [
 		{
 			"src": "img/icon.png",

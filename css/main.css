@@ -116,6 +116,17 @@ h2 {
 	padding: 20px; /* Padding inside the section */
 	padding-left: 15%;
 	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Adds a shadow for depth */
+	
+}
+
+.sections-box-skills {
+	background-color: #121212; /* Example background color */
+	padding: 20px; /* Padding inside the section */
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Adds a shadow for depth */
+}
+
+.sections-box-skills h2 {
+	padding-left: 15%;
 }
 
 .experience-box {
